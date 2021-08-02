@@ -1,6 +1,6 @@
 ![header](imgs/header.jpg)
 
-# AlphaFold
+# AlphaFold 2.0
 
 This package provides an implementation of the inference pipeline of AlphaFold
 v2.0. This is a completely new model that was entered in CASP14 and published in
